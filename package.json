@@ -19,6 +19,7 @@
   "homepage": "https://github.com/GrimShadow1994/FriendFinder#readme",
   "dependencies": {
     "express": "^4.16.4",
+    "nodemon": "^1.19.0",
     "path": "^0.12.7"
   }
 }
